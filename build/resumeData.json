@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name":"Nathan Patrick",
+    "occupation":"Web Developer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Music and tech have been my two passions for the past decade. I’ve recently graduated from Lighthouse Labs web development boot camp, a 3 month full time deep dive into wed dev. It was the most engaging educational endeavour I have ever taken part of and I cant wait to dig into new experiments with app development. Besides tech, I play in touring rock bands and have taken part in battle bots. Keep curious and thanks for your consideration.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "nathanpatrick939@gmail.com",
+    "phone": "226-582-1785",
+    "address":{
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": "M6H1W3"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nathan-patrick-05a773205/",
+        "className":"fa fa-linkedin"
+      },
+  
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/_n_d_g_p_/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/NDGP",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Lighthouse Labs",
+        "degree":"Web Dev bootcamp",
+        "graduated":"January 2020",
+        "description":"3 month web dev bootcamp"
+      }
+    ],
+    "work":[
+      {
+        "company":"Invisible Sky",
+        "title":"AV Tech",
+        "years":"april 2019 - Present",
+        "description":"Set up and tech support for large concerts and convention centres... pandemic halted that one real quick."
+      },
+      {
+        "company":"Toronto Home Installers",
+        "title":"Driver",
+        "years":"Dec 2018 - February 2019",
+        "description":"Delivering high end furniture for clients across Ontario and Quebec."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"Ruby",
+        "level":"60%"
+      },
+      {
+        "name":"Rails",
+        "level":"45%"
+      },
+      {
+        "name":"Express",
+        "level":"55%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"One man’s garbage is another man person’s good un-garbage.",
+        "user":"Ricky LaFleur - trailer park boy"
+      },
+      {
+        "text":"There’s plenty of other interesting things you can do. Have you ever tried marijuana? Maybe it’s time.",
+        "user":"Randy Marsh - resident of South Park"
+      },
+      {
+        "text":"I Am The Lizard Queen!",
+        "user":"lisa Simpson - Springfield know it all"
+      }
+    ]
+  }
+}
