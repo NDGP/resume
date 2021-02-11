@@ -13,8 +13,8 @@
       "state":"Ontario",
       "zip": "M6H1W3"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"https://resume.creddle.io/resume/6drdam72l4n",
     "social":[
       {
         "name":"linkedin",
@@ -95,34 +95,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Black Jack Switch",
+        "category":"A variant on the well known Black Jack build with React. My final project for Lighthouse labs.",
+        "image":"Cards.jpg",
+        "url":"https://github.com/NDGP/black-jack-switch"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Schedualer app",
+        "category":"A quick appointment scheduling app made with React.js ",
+        "image":"Schedualer.png",
+        "url":"https://github.com/NDGP/lighthouse-labs-scheduler.-"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Jungle",
+        "category":"Amazons ugly brother, built with Ruby on Rails as a school project.",
+        "image":"Jungle Home Page.png",
+        "url":"https://github.com/NDGP/jungle"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Tweeter",
+        "category":"project for school, remakeing twitter.",
+        "image":"Tweeter.png",
+        "url":"https://github.com/NDGP/tweeter"
       }
     ]
   },

@@ -36,6 +36,7 @@ class About extends Component {
                    </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
+                     <h2><a href="https://resume.creddle.io/embed/6drdam72l4n"> Link to Resume</a> </h2>
 					   </p>
                </div>
             </div>
