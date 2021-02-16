@@ -117,6 +117,12 @@
         "category":"project for school, remakeing twitter.",
         "image":"Tweeter.png",
         "url":"https://github.com/NDGP/tweeter"
+      },
+      {
+        "title":"Go-Ol to-do list",
+        "category":"Just a little to do list app.",
+        "image":"Screenshot from 2021-02-16 16-17-39.png",
+        "url":"https://good-ol-todo.netlify.app/"
       }
     ]
   },
